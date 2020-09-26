@@ -1,0 +1,10 @@
+.nav{
+    position:fixed;
+    top:0;
+}
+.nav_logo{
+    width: 150px;
+    object-fit:contain;
+    margin-left: 25px;
+    margin-top: 20px;
+}
